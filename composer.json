@@ -1,0 +1,17 @@
+{
+    "name": "dev/belajar-php-rabbitmq",
+    "autoload": {
+        "psr-4": {
+            "Dev\\BelajarPhpRabbitmq\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdaziznet",
+            "email": "dev.abdaziz@outlook.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": "^3.6"
+    }
+}
